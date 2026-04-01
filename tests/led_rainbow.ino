@@ -1,3 +1,8 @@
+// code to make a strip of APA102 LEDs all red, for testing purposes
+// this uses CO (clock) > connected to Pin 13 (SCK) and DO (data) > connected to
+// Pin 11 (MOSI) power and ground  from a different source, with all grounds
+// connected together
+
 #include <FastLED.h>
 
 #define NUM_LEDS 30

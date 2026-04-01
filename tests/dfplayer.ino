@@ -31,6 +31,9 @@
 // to use ffmpeg to convert to mp3: ffmpeg -i 0001.wav -vn -ar 44100 -ac 2 -b:a
 // 192k 0001.mp3
 
+// The DF player needs to be power at the same time or before the Arduino is
+// powered on, otherwise it won't be detected by the Arduino.
+
 #include <SoftwareSerial.h>
 
 #include "DFRobotDFPlayerMini.h"

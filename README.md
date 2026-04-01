@@ -9,3 +9,6 @@ LED strips come with a single Din line (3 wires), or with a clock and data line 
 
 Servo can be used to open and close a lock
 * 🔓 Servo lock test: [Servo lock test](/tests/servo_lock.ino)
+
+Audio can be played using a DFPlayer mini, which takes an SD card with audio files on it. The player can be controlled using serial commands.
+* 🎵 [Test DF mini audio player](/tests/dfplayer.ino)

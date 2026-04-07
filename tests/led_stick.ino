@@ -25,7 +25,7 @@
 #include <Adafruit_NeoPixel.h>
 
 const int ledPin = 6;
-const int N_LEDs = 8;
+const int N_LEDs = 12;
 
 Adafruit_NeoPixel strip =
     Adafruit_NeoPixel(N_LEDs, ledPin, NEO_GRB + NEO_KHZ800);

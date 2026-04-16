@@ -6,7 +6,7 @@ The idea starts from a nest of monsters somewhere in the house (a stuffed nest-s
 ## Test set-up of the first prototype
 The first prototype is built upon a Figma prototype for the tablet app and an improvised nest with stuffed animals, combined with an Arduino R4 that allows a bluetooth wizard to control a series of led ring animations and sounds.
 
-* Figma prototype
+* [Figma prototype](https://www.figma.com/design/7ToKMcdmMbbE8c0YPbRttF/Prototype-Messy-monsters?node-id=0-1)
 
 **Components of the nest**
 

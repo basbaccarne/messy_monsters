@@ -1,4 +1,4 @@
-# messy monsters
+# Messy Monsters
 🧌 Messy Monsters 👹 is a [Comon Mini Living Lab](https://comon.gent/en/messy-monsters) concept that makes cleaning up in the house more fun for the whole family, focussed on involving children in this process. 
 
 The idea starts from a nest of monsters somewhere in the house (a stuffed nest-shaped whole full of socks, toys, handkerchiefs, etc.) that houses several messy monsters (stuffed animals in different colors and shapes). When a chore has to be done, the monster 'escapes' (since it love mess in the house). This implies that a parent hides the monster somewhere in the room where the chore has to be done. When activated, the other monsters in the nest start whining. To allow the monster to come back, first the chore has to be done. This is supported by a tablet app that makes this fun and interactive. When the chore is done, the monsters can to back to the nest and the monsters cheer from the nest.
@@ -47,7 +47,7 @@ Main code for the prototype: [main.ino](src/main.ino)
     * '3' → ring 3 fire,  matrix shows "3", play /MP3/0001.mp3 (whining sound)
 
 
-## hardware tests
+## Hardware Tests
 LED strips come with a single Din line (3 wires), or with a clock and data line (SPI, 4 wires).
 * 🔴 [Test led strip SPI all red](/tests/led_red.ino)
 * 🌈 [Test led strip SPI rainbow](/tests/led_rainbow.ino)
